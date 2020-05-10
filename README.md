@@ -1,6 +1,6 @@
-# marketing_app
+# Ecommerce App
 
-A new Flutter application.
+This is a flutter ecommerce app, it is still under developement. 
 
 ## Getting Started
 
