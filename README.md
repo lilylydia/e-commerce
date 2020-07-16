@@ -1,6 +1,7 @@
 # Ecommerce App
 
-This is a flutter ecommerce app, it is still under developement. 
+This is a flutter E-commerce app for android, it is still under developement. 
+
 
 ## Getting Started
 
